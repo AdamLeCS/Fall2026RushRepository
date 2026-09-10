@@ -12,7 +12,7 @@ export function About() {
         </div>
         <div className="space-y-4 p-5">
           <p className="text-text-primary">
-            I&apos;m <span className="text-primary">Name</span>, a &quot;major&quot; student
+            I&apos;m <span className="text-primary">Adam</span>, a &quot;major&quot; student
             at the University of South Carolina interested in...
           </p>
           <p className="text-text-secondary">I am looking for...</p>
